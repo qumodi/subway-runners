@@ -11,9 +11,9 @@
 
 ![Ігровий процес](Assets/Screenshots/GameplayScreenshot.jpg)
 ---
-![Меню паузи](Assets/Screenshots/PauseScreenshot.jpg)
+[Меню паузи](Assets/Screenshots/PauseScreenshot.jpg)
 ---
-![Меню рестарт](Assets/Screenshots/RestartScreenshot.jpg)
+[Меню рестарт](Assets/Screenshots/RestartScreenshot.jpg)
 ---
 
 ## 🔑 Особливості
