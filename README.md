@@ -10,7 +10,9 @@
 На зустріч гравцю рухаються перешкоди від яких потрібно ухилятися.
 
 [Ігровий процес](Assets/Screenshots/GameplayScreenshot.jpg)
+---
 [Меню паузи](Assets/Screenshots/PauseScreenshot.jpg)
+---
 [Меню рестарт](Assets/Screenshots/RestartScreenshot.jpg)
 ---
 
